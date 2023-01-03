@@ -1,2 +1,2 @@
-# astr-119-hw-5
+# astr-119
 Numerical Integration techniques with Python 
